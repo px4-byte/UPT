@@ -1,0 +1,20 @@
+ERROR:root:Failed to import modules: No module named 'UPT'
+Traceback (most recent call last):
+  File "C:\Users\PX3 pro Machine\UPT\Translator\translator_server.py", line 8, in <module>
+    from UPT.Translator.translator import UPTTranslator
+ModuleNotFoundError: No module named 'UPT'
+ERROR:root:Failed to import modules: No module named 'UPT'
+Traceback (most recent call last):
+  File "C:\Users\PX3 pro Machine\UPT\Translator\translator_server.py", line 8, in <module>
+    from UPT.Translator.translator import UPTTranslator
+ModuleNotFoundError: No module named 'UPT'
+ERROR:root:Failed to import modules: No module named 'UPT'
+Traceback (most recent call last):
+  File "C:\Users\PX3 pro Machine\UPT\Translator\translator_server.py", line 8, in <module>
+    from UPT.Translator.translator import UPTTranslator
+ModuleNotFoundError: No module named 'UPT'
+ERROR:root:Failed to import modules: No module named 'UPT'
+Traceback (most recent call last):
+  File "C:\Users\PX3 pro Machine\UPT\Translator\translator_server.py", line 8, in <module>
+    from UPT.Translator.translator import UPTTranslator
+ModuleNotFoundError: No module named 'UPT'

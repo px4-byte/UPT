@@ -1,0 +1,18 @@
+2025-08-21 08:57:07,941 - INFO - Database initialized
+2025-08-21 08:57:07,941 - INFO - Initialized UPT Sniffer
+2025-08-21 08:57:07,941 - INFO - Starting sniffer and analyzer
+2025-08-21 08:57:07,988 - INFO - Starting sniffer on Wi-Fi with filter tcp
+2025-08-21 08:57:08,067 - ERROR - Sniffing error: Error opening adapter: The filename, directory name, or volume label syntax is incorrect.  (123)
+2025-08-21 08:57:09,148 - INFO - Sniffer stopped
+2025-08-21 09:30:46,522 - INFO - Database initialized
+2025-08-21 09:30:46,522 - INFO - Initialized UPT Sniffer
+2025-08-21 09:30:46,523 - INFO - Starting sniffer and analyzer
+2025-08-21 09:30:46,525 - INFO - Starting sniffer on Wi-Fi with filter tcp
+2025-08-21 09:30:46,559 - ERROR - Sniffing error: Error opening adapter: The filename, directory name, or volume label syntax is incorrect.  (123)
+2025-08-21 09:54:16,890 - INFO - Sniffer stopped
+2025-08-21 10:17:12,882 - INFO - Database initialized
+2025-08-21 10:17:12,908 - INFO - Initialized UPT Sniffer
+2025-08-21 10:17:12,908 - INFO - Starting sniffer and analyzer
+2025-08-21 10:17:12,908 - INFO - Starting sniffer on Wi-Fi with filter tcp
+2025-08-21 10:17:12,967 - ERROR - Sniffing error: Error opening adapter: The filename, directory name, or volume label syntax is incorrect.  (123)
+2025-08-21 10:17:45,495 - INFO - Sniffer stopped

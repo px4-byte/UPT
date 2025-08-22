@@ -1,0 +1,35 @@
+2025-08-21 08:49:01,489 - INFO - Starting Universal Protocol Translator System...
+2025-08-21 08:49:01,536 - ERROR - Failed to start sniffer: [WinError 267] The directory name is invalid
+2025-08-21 08:49:01,536 - ERROR - Failed to start translator: [WinError 267] The directory name is invalid
+2025-08-21 08:49:01,536 - ERROR - Failed to start agent: [WinError 267] The directory name is invalid
+2025-08-21 08:49:01,536 - INFO - UPT System fully operational!
+2025-08-21 08:56:47,868 - INFO - Starting Universal Protocol Translator System...
+2025-08-21 08:56:49,097 - INFO - SNIFFER started (PID: 17900)
+2025-08-21 08:56:50,282 - INFO - TRANSLATOR started (PID: 7172)
+2025-08-21 08:56:51,305 - INFO - AGENT started (PID: 19280)
+2025-08-21 08:56:51,305 - INFO - UPT System fully operational!
+2025-08-21 08:56:51,305 - WARNING - TRANSLATOR crashed (exit code: 1), restarting...
+2025-08-21 08:56:52,330 - ERROR - TRANSLATOR failed to start (exit code: 1)
+2025-08-21 08:56:57,331 - WARNING - TRANSLATOR crashed (exit code: 1), restarting...
+2025-08-21 08:56:58,358 - ERROR - TRANSLATOR failed to start (exit code: 1)
+2025-08-21 08:57:03,359 - WARNING - TRANSLATOR crashed (exit code: 1), restarting...
+2025-08-21 08:57:04,398 - ERROR - TRANSLATOR failed to start (exit code: 1)
+2025-08-21 08:57:09,180 - INFO - SNIFFER stopped
+2025-08-21 08:57:09,180 - INFO - TRANSLATOR stopped
+2025-08-21 08:57:09,416 - INFO - AGENT stopped
+2025-08-21 09:30:41,542 - INFO - Starting Universal Protocol Translator System...
+2025-08-21 09:30:41,590 - INFO - SNIFFER started (PID: 16968)
+2025-08-21 09:30:41,608 - INFO - TRANSLATOR started (PID: 14560)
+2025-08-21 09:30:41,649 - INFO - AGENT started (PID: 8276)
+2025-08-21 09:30:41,649 - INFO - UPT System fully operational!
+2025-08-21 09:54:17,123 - INFO - SNIFFER stopped
+2025-08-21 09:54:17,174 - INFO - TRANSLATOR stopped
+2025-08-21 09:54:17,217 - INFO - AGENT stopped
+2025-08-21 10:17:04,094 - INFO - Starting Universal Protocol Translator System...
+2025-08-21 10:17:04,151 - INFO - SNIFFER started (PID: 9688)
+2025-08-21 10:17:04,167 - INFO - TRANSLATOR started (PID: 4908)
+2025-08-21 10:17:04,216 - INFO - AGENT started (PID: 16848)
+2025-08-21 10:17:04,216 - INFO - UPT System fully operational!
+2025-08-21 10:17:45,559 - INFO - SNIFFER stopped
+2025-08-21 10:17:45,595 - INFO - TRANSLATOR stopped
+2025-08-21 10:17:45,622 - INFO - AGENT stopped

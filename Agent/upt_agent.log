@@ -1,0 +1,422 @@
+2025-08-21 09:13:59,040 - WARNING - translation_sessions table not found - starting fresh - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:13:59,041 - INFO - Initialized UPT Agent - Ready to learn and decide! - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:13:59,041 - INFO - Starting autonomous operation... - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:13:59,058 - WARNING - translation_sessions table not found - starting fresh - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:03,410 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:03,411 - INFO - \U0001f680 Priority Engine Initialized - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:03,421 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:07,603 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:07,604 - INFO - \U0001f680 Priority Engine Initialized - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:07,607 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:11,799 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:11,800 - INFO - \U0001f680 Priority Engine Initialized - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:11,803 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:15,990 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:15,990 - INFO - \U0001f680 Priority Engine Initialized - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:15,990 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:20,162 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:20,162 - INFO - \U0001f680 Priority Engine Initialized - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:20,165 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:24,314 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:24,315 - INFO - \U0001f680 Priority Engine Initialized - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:14:24,318 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:14:26,451 - INFO - Agent stopped - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:21,642 - INFO - Initialized UPT Agent - Ready to learn and decide! - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:21,657 - INFO - Starting autonomous operation... - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:25,945 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:25,947 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:30,135 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:30,142 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:34,356 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:34,360 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:38,555 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:38,560 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:42,749 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:42,754 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:46,982 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:46,985 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:51,178 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:51,183 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:55,374 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:55,380 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:29:59,570 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:29:59,579 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:03,767 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:30:03,769 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:07,973 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 09:30:07,976 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:10,114 - INFO - Agent stopped - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:44,494 - INFO - Initialized UPT Agent - Ready to learn and decide! - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:44,494 - INFO - Starting autonomous operation... - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:46,964 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:49,095 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:51,235 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:30:53,394 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:00,561 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:07,712 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:14,866 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:22,025 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:29,180 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:36,365 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:40,526 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:44,711 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:48,921 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:53,103 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:31:57,286 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:01,438 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:05,586 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:09,758 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:13,948 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:18,121 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:22,287 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:26,458 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:30,635 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:34,796 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:38,966 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:43,126 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:47,327 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:51,530 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:55,709 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:32:59,893 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:04,052 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:08,224 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:12,373 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:16,550 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:20,702 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:24,905 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:29,075 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:33,270 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:37,438 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:41,592 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:45,733 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:49,916 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:54,112 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:33:58,316 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:02,497 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:06,700 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:10,864 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:15,031 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:19,220 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:23,423 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:27,597 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:31,779 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:35,972 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:40,160 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:44,357 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:48,572 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:52,742 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:34:56,885 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:01,061 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:05,244 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:09,422 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:13,617 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:17,792 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:22,002 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:26,185 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:30,384 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:34,637 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:38,842 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:43,035 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:47,199 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:51,427 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:55,593 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:35:59,793 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:03,964 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:08,151 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:12,346 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:16,546 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:20,723 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:24,885 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:29,062 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:33,253 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:37,453 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:41,650 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:45,810 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:49,982 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:54,155 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:36:58,488 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:02,659 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:06,825 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:10,978 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:15,141 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:19,316 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:23,520 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:27,712 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:31,872 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:36,025 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:40,185 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:44,363 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:48,557 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:52,721 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:37:56,902 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:01,083 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:05,252 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:09,424 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:13,599 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:17,797 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:21,992 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:26,160 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:30,336 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:34,496 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:38,661 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:42,823 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:46,972 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:51,149 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:55,338 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:38:59,517 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:03,706 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:07,908 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:12,115 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:16,269 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:20,419 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:24,617 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:28,815 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:33,003 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:37,188 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:41,382 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:45,573 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:49,776 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:53,963 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:39:58,159 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:02,359 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:06,534 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:10,695 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:14,886 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:19,058 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:23,273 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:27,468 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:31,664 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:35,854 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:40,045 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:44,241 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:48,437 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:52,620 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:40:56,792 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:00,967 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:05,145 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:09,337 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:13,527 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:17,705 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:21,858 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:26,048 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:30,209 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:34,416 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:38,587 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:42,760 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:46,929 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:51,126 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:55,307 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:41:59,481 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:03,636 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:07,803 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:11,981 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:16,171 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:20,331 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:24,485 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:28,672 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:32,842 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:36,997 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:41,178 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:45,349 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:49,520 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:53,686 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:42:57,849 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:02,040 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:06,221 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:10,382 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:14,549 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:18,719 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:22,901 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:27,069 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:31,248 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:35,423 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:39,600 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:43,765 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:47,950 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:52,155 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:43:56,335 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:00,507 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:04,680 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:08,853 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:13,040 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:17,252 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:21,440 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:25,602 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:29,759 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:33,919 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:38,102 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:42,284 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:46,466 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:50,667 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:54,834 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:44:59,011 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:03,179 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:07,341 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:11,500 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:15,679 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:19,829 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:23,995 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:28,188 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:32,379 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:36,561 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:40,754 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:44,936 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:49,118 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:53,296 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:45:57,452 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:01,623 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:05,786 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:09,964 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:14,139 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:18,290 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:22,456 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:26,619 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:30,784 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:34,977 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:39,142 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:43,333 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:47,513 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:51,676 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:46:55,849 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:00,017 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:04,191 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:08,356 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:12,549 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:16,739 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:20,915 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:25,088 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:29,250 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:33,426 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:37,601 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:41,767 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:45,939 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:50,133 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:54,309 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:47:58,487 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:02,650 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:06,845 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:11,020 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:15,201 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:19,388 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:23,545 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:27,710 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:31,908 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:36,080 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:40,236 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:44,411 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:48,578 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:52,748 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:48:56,916 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:01,096 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:05,248 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:09,441 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:13,608 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:17,787 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:21,948 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:26,131 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:30,311 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:34,496 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:38,678 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:42,859 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:47,059 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:51,237 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:55,411 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:49:59,604 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:03,790 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:07,958 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:12,115 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:16,288 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:20,466 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:24,641 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:28,798 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:32,962 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:37,108 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:41,293 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:45,462 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:49,629 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:53,806 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:50:58,020 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:02,195 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:06,374 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:10,575 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:14,740 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:18,926 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:23,130 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:27,321 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:31,480 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:35,642 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:39,793 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:43,970 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:48,141 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:52,321 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:51:56,489 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:00,710 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:04,870 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:09,051 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:13,211 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:17,430 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:21,604 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:25,801 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:29,970 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:34,124 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:38,306 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:42,501 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:46,663 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:50,832 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:55,027 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:52:59,205 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:03,359 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:07,558 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:11,889 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:16,236 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:20,412 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:24,592 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:28,760 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:32,940 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:37,117 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:41,295 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:45,475 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:49,628 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:53,815 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:53:57,982 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:54:02,142 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:54:06,299 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:54:10,478 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 09:54:14,680 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:14,652 - INFO - Initialized UPT Agent - Ready to learn and decide! - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:14,660 - INFO - Starting autonomous operation... - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:14,888 - INFO - Started multicast knowledge sharing on 239.255.0.1:5000 - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:19,338 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:19,338 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:23,540 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:23,540 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:27,708 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:27,708 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:31,862 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:31,862 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:36,039 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:36,039 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:40,249 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:40,257 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:44,463 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:44,471 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:48,650 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:48,650 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:52,805 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:52,813 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:15:56,997 - INFO - \u2705 Loaded 0 protocol patterns - C:\Users\PX3 pro Machine\UPT\Shared\priority_engine.py
+2025-08-21 10:15:57,005 - INFO - Processed 0 pending decisions - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:16:01,162 - ERROR - Multicast receive error: [WinError 10038] An operation was attempted on something that is not a socket - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:16:01,162 - INFO - Stopped multicast knowledge sharing - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:16:01,162 - INFO - Agent stopped - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:06,732 - INFO - Initialized UPT Agent - Ready to learn and decide! - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:06,732 - INFO - Starting autonomous operation... - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:06,740 - INFO - Started multicast knowledge sharing on 239.255.0.1:5000 - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:09,241 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:11,414 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:13,617 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:15,766 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:22,916 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:30,059 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:37,214 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py
+2025-08-21 10:17:44,362 - ERROR - Process pending decisions error: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined> - C:\Users\PX3 pro Machine\UPT\Agent\agent.py

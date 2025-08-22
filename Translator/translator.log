@@ -1,0 +1,12 @@
+2025-08-21 08:45:59,837 - INFO - Created translation_sessions.db successfully
+2025-08-21 09:27:41,811 - INFO - Created translation_sessions.db with translation_sessions table - C:\Users\PX3 pro Machine\UPT\Translator\init_translation_db.py
+2025-08-21 09:28:40,321 - INFO - Initialized UPT Translator
+2025-08-21 09:28:40,325 - INFO - Connected to translation_sessions.db with translation_sessions table
+2025-08-21 09:28:40,369 - INFO - UPT Translation Server running on localhost:8888
+2025-08-21 09:29:12,913 - INFO - Translation Server stopped
+2025-08-21 09:30:44,261 - INFO - Initialized UPT Translator
+2025-08-21 09:30:44,266 - INFO - Connected to translation_sessions.db with translation_sessions table
+2025-08-21 09:30:44,285 - INFO - UPT Translation Server running on localhost:8888
+2025-08-21 10:17:06,708 - INFO - Initialized UPT Translator
+2025-08-21 10:17:06,724 - INFO - Connected to translation_sessions.db with translation_sessions table
+2025-08-21 10:17:06,740 - INFO - UPT Translation Server running on localhost:8888

@@ -1,0 +1,4 @@
+2025-08-21 09:13:10,626 - INFO - Initialized UPT Translator
+2025-08-21 09:13:10,787 - INFO - Connected to translation_sessions.db
+2025-08-21 09:13:10,819 - INFO - UPT Translation Server running on localhost:8888
+2025-08-21 09:13:49,105 - INFO - Translation Server stopped
