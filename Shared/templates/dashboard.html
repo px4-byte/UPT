@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPT Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+            color: #00ff00;
+            font-family: 'Courier New', monospace;
+        }
+        .glow {
+            text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+        }
+        .table-container {
+            background: rgba(0, 255, 0, 0.1);
+            border: 1px solid #00ff00;
+            border-radius: 8px;
+            padding: 1rem;
+        }
+        .btn-refresh {
+            background: #00ff00;
+            color: #000;
+            transition: all 0.3s ease;
+        }
+        .btn-refresh:hover {
+            background: #00cc00;
+            box-shadow: 0 0 15px #00ff00;
+        }
+    </style>
+</head>
+<body class="min-h-screen p-6">
+    <div class="container mx-auto">
+        <h1 class="text-4xl font-bold text-center mb-8 glow">UPT Hacker Dashboard</h1>
+        
+        <!-- Packet Statistics -->
+        <div class="table-container mb-8">
+            <h2 class="text-2xl font-semibold mb-4 glow">Packet Statistics (packets.db)</h2>
+            <table class="w-full text-left border-separate border-spacing-2">
+                <thead>
+                    <tr class="text-lg">
+                        <th class="border-b border-green-500">Protocol</th>
+                        <th class="border-b border-green-500">Packet Count</th>
+                        <th class="border-b border-green-500">Avg Length</th>
+                    </tr>
+                </thead>
+                <tbody id="packet-stats">
+                    {% for stat in packet_stats %}
+                    <tr class="hover:bg-green-900/30">
+                        <td>{{ stat[0] }}</td>
+                        <td>{{ stat[1] }}</td>
+                        <td>{{ '%.2f' % stat[2] }}</td>
+                    </tr>
+                    {% else %}
+                    <tr><td colspan="3" class="text-center">No packet data available</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Translation Statistics -->
+        <div class="table-container mb-8">
+            <h2 class="text-2xl font-semibold mb-4 glow">Translation Statistics (translation_sessions.db)</h2>
+            <table class="w-full text-left border-separate border-spacing-2">
+                <thead>
+                    <tr class="text-lg">
+                        <th class="border-b border-green-500">Source Protocol</th>
+                        <th class="border-b border-green-500">Target Protocol</th>
+                        <th class="border-b border-green-500">Count</th>
+                        <th class="border-b border-green-500">Avg Length</th>
+                    </tr>
+                </thead>
+                <tbody id="translation-stats">
+                    {% for stat in translation_stats %}
+                    <tr class="hover:bg-green-900/30">
+                        <td>{{ stat[0] }}</td>
+                        <td>{{ stat[1] }}</td>
+                        <td>{{ stat[2] }}</td>
+                        <td>{{ '%.2f' % stat[3] }}</td>
+                    </tr>
+                    {% else %}
+                    <tr><td colspan="4" class="text-center">No translation data available</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Agent Knowledge -->
+        <div class="table-container mb-8">
+            <h2 class="text-2xl font-semibold mb-4 glow">Agent Knowledge</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div class="p-4 bg-green-900/20 rounded-lg">
+                    <p><strong>Protocols Known:</strong> <span id="protocols-count">{{ agent_knowledge.protocols|length }}</span></p>
+                </div>
+                <div class="p-4 bg-green-900/20 rounded-lg">
+                    <p><strong>Translation Patterns:</strong> <span id="patterns-count">{{ agent_knowledge.translation_patterns|length }}</span></p>
+                </div>
+                <div class="p-4 bg-green-900/20 rounded-lg">
+                    <p><strong>Last Updated:</strong> <span id="last-updated">{{ agent_knowledge.last_updated }}</span></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Refresh Button -->
+        <div class="text-center">
+            <button id="refresh-btn" class="btn-refresh py-2 px-6 rounded-lg font-bold">Refresh Data</button>
+        </div>
+    </div>
+
+    <script>
+        // Real-time refresh
+        document.getElementById('refresh-btn').addEventListener('click', async () => {
+            try {
+                const response = await fetch('/health');
+                const data = await response.json();
+                if (data.status === 'running') {
+                    window.location.reload();
+                } else {
+                    alert('Dashboard is not responding. Check logs.');
+                }
+            } catch (error) {
+                alert('Error refreshing data: ' + error.message);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+business_priorities:
+  speed: 0.3
+  accuracy: 0.5
+  security: 0.2
+learning_rate: 0.1
+mock_data:
+  db_path: "mock_data/mock_packets.db"
+multicast:
+  group: "239.255.0.1"
+  port: 5000
+  ttl: 2
+  secret_key: "upt_secure_2025"

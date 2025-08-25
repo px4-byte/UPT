@@ -1,16 +1,52 @@
-2025-08-21 10:33:10,734 - INFO - Starting UPT Dashboard on http://localhost:5000 - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
-2025-08-21 10:33:11,087 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2025-08-22 10:16:33,501 - INFO - Starting UPT Dashboard on http://0.0.0.0:5000 - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:16:34,376 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
- * Running on http://10.96.0.52:5000 - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
-2025-08-21 10:33:11,087 - INFO - [33mPress CTRL+C to quit[0m - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
-2025-08-21 10:38:00,691 - INFO - Starting UPT Dashboard on http://localhost:5000 - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
-2025-08-21 10:38:00,773 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.43.102:5000 - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:16:34,376 - INFO - [33mPress CTRL+C to quit[0m - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:19:20,447 - ERROR - Failed to fetch agent knowledge: HTTPConnectionPool(host='localhost', port=9999): Max retries exceeded with url: /knowledge (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AFE4CB8CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')) - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:19:20,513 - INFO - 192.168.43.102 - - [22/Aug/2025 10:19:20] "GET / HTTP/1.1" 200 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:19:23,558 - INFO - 192.168.43.102 - - [22/Aug/2025 10:19:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:22:18,056 - ERROR - Failed to fetch agent knowledge: HTTPConnectionPool(host='localhost', port=9999): Max retries exceeded with url: /knowledge (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AFE4C71250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')) - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:22:18,091 - INFO - 192.168.43.102 - - [22/Aug/2025 10:22:18] "GET / HTTP/1.1" 200 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:23:11,709 - ERROR - Failed to fetch agent knowledge: HTTPConnectionPool(host='localhost', port=9999): Max retries exceeded with url: /knowledge (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AFE4CCD650>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')) - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:23:11,710 - INFO - 192.168.43.102 - - [22/Aug/2025 10:23:11] "GET / HTTP/1.1" 200 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:23:17,677 - ERROR - Exception on /health [GET] - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py
+Traceback (most recent call last):
+  File "C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py", line 81, in health_check
+    return {"status": "running", "timestamp": datetime.now().isoformat()}
+                                              ^^^^^^^^
+NameError: name 'datetime' is not defined
+2025-08-22 10:23:17,724 - INFO - 192.168.43.102 - - [22/Aug/2025 10:23:17] "[35m[1mGET /health HTTP/1.1[0m" 500 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:23:27,938 - ERROR - Failed to fetch agent knowledge: HTTPConnectionPool(host='localhost', port=9999): Max retries exceeded with url: /knowledge (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AFE4CFF150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')) - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:23:27,939 - INFO - 192.168.43.102 - - [22/Aug/2025 10:23:27] "GET / HTTP/1.1" 200 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:24:04,360 - INFO - Starting UPT Dashboard on http://0.0.0.0:5000 - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:24:04,592 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
- * Running on http://10.96.0.52:5000 - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
-2025-08-21 10:38:00,773 - INFO - [33mPress CTRL+C to quit[0m - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
-2025-08-22 04:54:57,375 - ERROR - Template not found: templates\dashboard.html - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
-2025-08-22 04:54:57,497 - INFO - 192.168.1.85 - - [22/Aug/2025 04:54:57] "[35m[1mGET / HTTP/1.1[0m" 500 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
-2025-08-22 04:54:58,832 - INFO - 192.168.1.85 - - [22/Aug/2025 04:54:58] "[33mGET /loginMsg.js HTTP/1.1[0m" 404 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
-2025-08-22 04:54:58,846 - INFO - 192.168.1.85 - - [22/Aug/2025 04:54:58] "[33mGET /cgi/get.cgi?cmd=home_login HTTP/1.1[0m" 404 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+ * Running on http://192.168.43.102:5000 - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:24:04,592 - INFO - [33mPress CTRL+C to quit[0m - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:25:31,626 - ERROR - Failed to fetch agent knowledge: HTTPConnectionPool(host='localhost', port=9999): Max retries exceeded with url: /knowledge (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024D7B918D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')) - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-22 10:25:31,666 - INFO - 192.168.43.102 - - [22/Aug/2025 10:25:31] "GET / HTTP/1.1" 200 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-22 10:25:32,210 - INFO - 192.168.43.102 - - [22/Aug/2025 10:25:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-23 12:47:24,362 - INFO - Starting UPT Dashboard on http://0.0.0.0:5000 - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-23 12:47:24,582 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.96.0.17:5000 - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-23 12:47:24,582 - INFO - [33mPress CTRL+C to quit[0m - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-23 12:48:51,979 - ERROR - Failed to fetch agent knowledge: HTTPConnectionPool(host='localhost', port=9999): Max retries exceeded with url: /knowledge (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C92E649690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')) - C:\Users\PX3 pro Machine\UPT\Shared\dashboard.py
+2025-08-23 12:48:52,078 - INFO - 10.96.0.17 - - [23/Aug/2025 12:48:52] "GET / HTTP/1.1" 200 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
+2025-08-23 12:49:09,454 - INFO - 10.96.0.17 - - [23/Aug/2025 12:49:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - - C:\Users\PX3 pro Machine\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py
